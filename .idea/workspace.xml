@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4646d6a6-7fc8-49e7-9412-b4135a795221" name="Default" comment="">
+    <list default="true" id="4646d6a6-7fc8-49e7-9412-b4135a795221" name="Default" comment="Manifest file correction with cache support&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="fos-todo-app-master.iws" />
@@ -31,7 +31,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="37" selection-start="575" selection-end="575" vertical-scroll-proportion="0.38729018" vertical-offset="0" max-vertical-offset="834">
+            <state line="15" column="28" selection-start="461" selection-end="461" vertical-scroll-proportion="0.3057554" vertical-offset="0" max-vertical-offset="834">
               <folding />
             </state>
           </provider>
@@ -177,7 +177,11 @@
       <created>1395181556200</created>
       <updated>1395181556200</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Manifest file correction with cache support&#10;">
+      <created>1395181560716</created>
+      <updated>1395181560716</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -360,7 +364,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="37" selection-start="575" selection-end="575" vertical-scroll-proportion="0.38729018" vertical-offset="0" max-vertical-offset="834">
+        <state line="15" column="28" selection-start="461" selection-end="461" vertical-scroll-proportion="0.3057554" vertical-offset="0" max-vertical-offset="834">
           <folding />
         </state>
       </provider>
