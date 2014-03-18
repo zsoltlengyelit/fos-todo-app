@@ -1,7 +1,7 @@
 {
   "version": "0.1",
   "name": "Todos",
-  "description": "Awesome todo app by iFadey",
+  "description": "Sample Todo application",
   "launch_path": "/index.html",
   "icons": {
     "16": "/img/icons/app-icon-16.png",
@@ -13,10 +13,10 @@
     "128": "/img/icons/app-icon-128.png"
   },
   "developer": {
-    "name": "Fawad Hassan",
-    "url": "http://ifadey.com"
+    "name": "Zsolt Lengyel",
+    "url": "http://lengyelzsolt.com"
   },
   "installs_allowed_from": ["*"],
-  "appcache_path": "/cache.manifest",
-  "default_locale": "en"
+  "default_locale": "en",
+  "type" : "privileged"
 }
