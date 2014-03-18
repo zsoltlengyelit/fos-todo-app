@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4646d6a6-7fc8-49e7-9412-b4135a795221" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/manifest.webapp" afterPath="$PROJECT_DIR$/www/manifest.webapp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="fos-todo-app-master.iws" />
@@ -174,7 +173,11 @@
       <created>1395181310764</created>
       <updated>1395181310764</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Manifest file correction with cache support&#10;">
+      <created>1395181556200</created>
+      <updated>1395181556200</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -217,7 +220,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Manifest file correction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Manifest file correction" />
+    <MESSAGE value="Manifest file correction with cache support&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Manifest file correction with cache support&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
