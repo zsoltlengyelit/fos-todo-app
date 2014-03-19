@@ -35,6 +35,8 @@ function (Backbone, TodosView, todos) {
       if ((e.type === 'click' || e.keyCode === 13) && task.length) {
         todos.create({task: task, created_on: new Date()});
         this.cancel();
+
+        navigator.vibrate(1000);
         return false;
       }
 

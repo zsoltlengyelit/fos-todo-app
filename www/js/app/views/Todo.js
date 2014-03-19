@@ -50,6 +50,7 @@ function (_, Backbone, todoTempl) {
 
         //save in case of enter/return
         if (e.keyCode === 13) {
+
           console.log('enter');
           self.$taskView.find('span').text(self.$taskEdit.val());
 
